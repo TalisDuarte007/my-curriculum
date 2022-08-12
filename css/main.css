@@ -1,5 +1,7 @@
 main{
-    margin: 0 300px 0 300px;
+    width: 1400px;
+    margin: auto;
+    /* margin: 0 300px 0 300px; */
 }
 
 .sobre{
