@@ -1,0 +1,26 @@
+.experiencia-enderecos{
+    padding-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.experiencia{
+    border: 1px solid #cecece;
+    padding: 30px;
+    margin-right: 12px;
+    width: 100%;
+}
+
+.enderecos{
+    border: 1px solid #cecece;
+    padding: 30px;
+    margin-left: 12px;
+    width: 520.531px;
+}
+
+.paragrafos-p--linkto{
+    margin: 25px 0;
+    font-size: 15px;
+    color: white;
+}
