@@ -32,7 +32,7 @@
 
 .porcentagem{
     width: 100%;
-    border-color: red;
+    border-color: white ;
 }
 
 .formacao{
@@ -42,8 +42,8 @@
     width: 100%;
 }
 
-.paragrafo > p{
-    padding-top: 10px;
+.paragrafo-p--link{
+    color: white;
 }
 
 .bootcamp{
