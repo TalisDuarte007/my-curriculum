@@ -1,0 +1,51 @@
+.skill-formacao{
+    padding-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.skills-barra{
+    border: 1px solid #cecece;
+    padding: 30px;
+    margin-right: 12px;
+}
+
+.image-skills{
+    width: 40px;
+    height: auto;
+}
+
+.lista-skills-barra{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0 0 0 ;
+    width: 350px;
+}
+
+.item-skill-barra{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.porcentagem{
+    width: 100%;
+    border-color: red;
+}
+
+.formacao{
+    border: 1px solid #cecece;
+    padding: 30px;
+    margin-left: 12px;
+    width: 100%;
+}
+
+.paragrafo > p{
+    padding-top: 10px;
+}
+
+.bootcamp{
+    margin-bottom: 20px;
+}

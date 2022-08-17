@@ -2,3 +2,30 @@ main{
     width: 1400px;
     margin: auto;
 }
+
+hr.solid {
+    border-top: 1px solid #bbb;
+    width: 40px;
+    display: block;
+    margin: 18px 0 0 0;
+}
+
+.titulos-h2{
+    margin: 25px 0;
+    font-size: 32px;
+}
+
+.titulos-h3{
+    margin: 25px 0;
+    font-size: 25px;
+}
+
+.titulos-h4{
+    margin: 20px 0 20px 0;
+    font-size: 18px;
+}
+
+.paragrafos-p{
+    margin: 25px 0;
+    font-size: 15px;
+}
