@@ -1,0 +1,28 @@
+.projetos{
+    padding-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #cecece;
+    padding: 30px;
+}
+
+.image-projetos{
+    width: 180px;
+    height: auto;
+}
+
+.image-projetos:hover{
+    width: 200px;
+    height: auto;
+}
+
+.lista-projetos{
+    display: flex;
+    flex-direction: row;
+    margin: 50px 0 50px 0;
+}
+
+.cada-projeto{
+    margin: auto;
+}
